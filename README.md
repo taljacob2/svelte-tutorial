@@ -23,9 +23,9 @@ Then choose to initialize `svelte` with one of the two options:
 - [svelte](https://vite.new/svelte)
 - [svelte-ts](https://vite.new/svelte-ts)
 
-My recommendation is to chose `svelte-ts`, because then you will be able to
-both code in `.ts` and `.js` - so you won't be limited there, as opposed to
-if you would pick `svelte` and you would then be limited only for `.js`.
+My recommendation is to choose `svelte-ts` because that way you will be able
+to develop in both `.ts` and `.js`, while if you choose `svelte` you will be
+limited to developing only in `.js`.
 
 Then run:
 ```
